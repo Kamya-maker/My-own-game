@@ -1,0 +1,8 @@
+class Weapon{
+    constructor(){
+
+    }
+    display(){
+        
+    }
+}

@@ -1,0 +1,8 @@
+class Maze{
+    constructor(){
+
+    }
+    display(){
+        
+    }
+}
